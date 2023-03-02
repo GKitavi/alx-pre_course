@@ -1,1 +1,2 @@
-My first readme
+Readme
+Feels good to start coding with ALX
